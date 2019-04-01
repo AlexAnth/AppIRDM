@@ -1,6 +1,6 @@
 # Email Filtering and Querying  
 
-This project was conducted my first quartile in the spring semester for the master course of Web information retrieval
+This project was conducted in the spring semester 2019 for the master course of Web information retrieval
 and data mining -  2IMM15 at TU/e. You can view the original report [here](documentation/IRDM%20project%20report%20git.pdf)
 
 ## Overview

@@ -9,7 +9,7 @@ and data mining -  2IMM15 at TU/e. You can view the original report [here](docum
 
 Choosing an efficient way to query email data, distinguish spam mail from a users mailbox, clustering emails into subject categories 
 are all tasks and challenges an email provider is responsible for in order to serve the end user successfully.
-Using Information Retrieval and Data Mining techniques I worked as a part of a group on building such functionality of 
+Using Information Retrieval and Data Mining techniques I worked as a part of a group on building the functionality of 
 an email provider and testing it on a large email dataset. The code presented is my part of the assignment on Boolean IR querying and email Classification.
 
 

@@ -27,6 +27,6 @@ an email provider and testing it on a large email dataset. The code presented is
 
 ## Authors
 
-* **Alex Anthis** - *Boolean IR & Naive Bayes Classifier & Application Development* - [AlexAnth](https://github.com/AlexAnth)
+* **Alex Anthis** - *Boolean IR & Naive Bayes Classifier & App* - [AlexAnth](https://github.com/AlexAnth)
 
 

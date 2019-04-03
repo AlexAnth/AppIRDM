@@ -1,7 +1,7 @@
 # Email Filtering and Querying  
 
 This project was conducted in the spring semester 2019 for the master course of Web information retrieval
-and data mining -  2IMM15 at TU/e. You can view the demo presentation of the application on [YouTube](https://www.youtube.com/watch?v=2xcqqoetBsk&feature=youtu.be), take a look on the [Report](documentation/IRDM%20project%20report%20git.pdf) or preview the [Project Poster]().
+and data mining -  2IMM15 at TU/e. You can view the demo presentation of the application on [YouTube](https://www.youtube.com/watch?v=2xcqqoetBsk&feature=youtu.be), take a look on the [Report](documentation/IRDM%20project%20report%20git.pdf) or preview the [Project Poster](documentation/poster.pdf).
 
 ## Overview
 
@@ -27,6 +27,6 @@ an email provider and testing it on a large email dataset. The code presented is
 
 ## Authors
 
-* **Alex Anthis** - *Initial work* - [AlexAnth](https://github.com/AlexAnth)
+* **Alex Anthis** - *Boolean IR & Naive Bayes Classifier & Application Development* - [AlexAnth](https://github.com/AlexAnth)
 
 

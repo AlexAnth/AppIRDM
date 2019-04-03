@@ -1,7 +1,7 @@
 # Email Filtering and Querying  
 
 This project was conducted in the spring semester 2019 for the master course of Web information retrieval
-and data mining -  2IMM15 at TU/e. You can view the original report [here](documentation/IRDM%20project%20report%20git.pdf)
+and data mining -  2IMM15 at TU/e. You can view the demo presentation of the application on [YouTube](https://www.youtube.com/watch?v=2xcqqoetBsk&feature=youtu.be), take a look on the [Report](documentation/IRDM%20project%20report%20git.pdf) or preview the [Project Poster]().
 
 ## Overview
 

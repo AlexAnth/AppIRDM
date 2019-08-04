@@ -12,6 +12,10 @@ are all tasks and challenges an email provider is responsible for in order to se
 Using Information Retrieval and Data Mining techniques I worked as a part of a group on building the functionality of 
 an email provider and testing it on a large email dataset. The code presented is my part of the assignment on Boolean IR querying and email Classification.
 
+### The application features:
+
+javax.swing GUI
+Java Database Connectivity with SQLi
 
       
 ### Prerequisites

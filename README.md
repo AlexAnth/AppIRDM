@@ -14,8 +14,8 @@ an email provider and testing it on a large email dataset. The code presented is
 
 ### The application features:
 
-javax.swing GUI
-Java Database Connectivity with SQLi
+* javax.swing GUI
+* Java Database Connectivity with SQLi
 
       
 ### Prerequisites

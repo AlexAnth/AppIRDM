@@ -5,7 +5,9 @@ and data mining 2IMM15 at TU/e. You can view the demo presentation of the applic
 
 ## Overview
 
-<p align="center"><img src="documentation/Screenshot%20classifier.png" width=550 align=center/></p>
+<a href="https://www.youtube.com/watch?v=2xcqqoetBsk&feature=youtu.be"> <p align="center"><img src="documentation/Screenshot%20classifier.png" width=550 align=center/></p></a>
+
+
 
 Choosing an efficient way to query email data, distinguish spam mail from a users mailbox, clustering emails into subject categories 
 are all tasks and challenges an email provider is responsible for in order to serve the end user successfully.

@@ -5,7 +5,7 @@ and data mining 2IMM15 at TU/e. You can view the demo presentation of the applic
 
 ## Overview
 
-<a href="https://www.youtube.com/watch?v=2xcqqoetBsk&feature=youtu.be"> <p align="center"><img src="documentation/Screenshot%20classifier.png" width=550 align=center/></p></a>
+<p align="center"><img src="documentation/Screenshot%20classifier.png" width=550 align=center/></p>
 
 
 
